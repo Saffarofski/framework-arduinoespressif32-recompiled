@@ -1,2 +1,10 @@
-esp-idf: lwip_timeout ed6742e7f0
-arduino: release/v2.x fb94d7db
+esp-idf: release/v4.4 5f0ac58e1b
+arduino: release/v2.x 7d607bfd
+esp32-camera: master d1c9c2c
+esp-dl: release/v1.1 d38f944
+esp-insights: main cfdd71e
+esp_littlefs: master d9d9506
+esp-rainmaker: master 6cfffd9
+espressif__esp-dsp: master 2091d66
+esp-sr: master 4353eb2
+tinyusb: master 1fdf29075
